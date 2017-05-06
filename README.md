@@ -6,7 +6,7 @@ A small project that projects the main screen's average color onto a philips hue
 
 At `config/app.json` you'll find all the options available to you.
 
-``` json
+``` javascript
 {
     "colorAverage": {
         "delay": 2000 // the time it'll take to process the next average (in milliseconds)
